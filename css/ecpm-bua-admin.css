@@ -1,0 +1,58 @@
+/* CSS Document */
+.bua-table-top{
+  margin-top:20px;
+}
+
+h2.bua-nav-tab-wrapper {margin:22px 0 0 0;}
+#sections {	padding:22px;	background: #fafafa; border:1px solid #ccc; border-top:0px;}
+#ecpm_bua_section {	display:none;}
+section:first-child { display:block;}
+
+.no-js h2.bua-nav-tab-wrapper {	display:none;}
+.no-js #sections {border-top:1px solid #ccc;	margin-top:22px;}
+.no-js section {	border-top: 1px dashed #aaa;	margin-top:22px;	padding-top:22px;}
+.no-js section:first-child {	margin:0px;	padding:0px;	border:0px;}
+
+
+.bua-nav-tab {
+	border: 1px solid #ccc;
+	border-bottom: none;
+	background: #e4e4e4;
+	color: #555;
+	font-size: 12px;
+	line-height: 16px;
+	display: inline-block;
+	padding: 4px 14px 6px;
+	text-decoration: none;
+	margin: -4px 4px -1px 0;
+}
+
+.bua-nav-tab:hover {
+	background-color: #fff;
+	color: #464646;
+}
+
+.bua-nav-tab-active {
+	color: #464646;
+}
+
+.bua-nav-tab-active,
+.bua-nav-tab-active:hover {
+	border-bottom: 1px solid #f1f1f1;
+	background: #f1f1f1;
+	color: #000;
+}
+
+h2.bua-nav-tab-wrapper,
+h3.bua-nav-tab-wrapper {
+	border-bottom: 1px solid #ccc;
+	padding-bottom: 0;
+	padding-left: 10px;
+}
+
+h2 .bua-nav-tab {
+	padding: 6px 10px;
+	font-weight: bold;
+	font-size: 15px;
+	line-height: 24px;
+} 

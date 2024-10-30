@@ -1,0 +1,403 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Block User Ads\n"
+"POT-Creation-Date: 2019-10-30 13:52+0100\n"
+"PO-Revision-Date: 2019-10-30 13:52+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: ecpm-bua.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: ecpm-bua-settings.php:9
+msgid "User ID"
+msgstr ""
+
+#: ecpm-bua-settings.php:10
+msgid "Blocked since"
+msgstr ""
+
+#: ecpm-bua-settings.php:11
+msgid "Expires"
+msgstr ""
+
+#: ecpm-bua-settings.php:12
+msgid "Notes"
+msgstr ""
+
+#: ecpm-bua-settings.php:13
+msgid "No. of ads"
+msgstr ""
+
+#: ecpm-bua-settings.php:14
+msgid "Action"
+msgstr ""
+
+#: ecpm-bua-settings.php:24
+msgid "There are no blocked users so far"
+msgstr ""
+
+#: ecpm-bua-settings.php:51 ecpm-bua-settings.php:101
+msgid "Never"
+msgstr ""
+
+#: ecpm-bua-settings.php:69
+#, php-format
+msgid "Are you sure you want to unblock user %s?"
+msgstr ""
+
+#: ecpm-bua-settings.php:69
+msgid "Unblock"
+msgstr ""
+
+#: ecpm-bua-settings.php:84
+msgid "Select user to block..."
+msgstr ""
+
+#: ecpm-bua-settings.php:102
+msgid "Day"
+msgstr ""
+
+#: ecpm-bua-settings.php:103
+msgid "Week"
+msgstr ""
+
+#: ecpm-bua-settings.php:104
+msgid "Month"
+msgstr ""
+
+#: ecpm-bua-settings.php:105
+msgid "Year"
+msgstr ""
+
+#: ecpm-bua-settings.php:115
+msgid "Are you sure you want to block user?"
+msgstr ""
+
+#: ecpm-bua-settings.php:115
+msgid "Block user"
+msgstr ""
+
+#: ecpm-bua-settings.php:128
+msgid "Image"
+msgstr ""
+
+#: ecpm-bua-settings.php:162
+msgid "Image position"
+msgstr ""
+
+#: ecpm-bua-settings.php:166
+msgid "Top"
+msgstr ""
+
+#: ecpm-bua-settings.php:167
+msgid "Middle"
+msgstr ""
+
+#: ecpm-bua-settings.php:168
+msgid "Bottom"
+msgstr ""
+
+#: ecpm-bua-settings.php:169
+msgid "Hide image"
+msgstr ""
+
+#: ecpm-bua-settings.php:173
+msgid "Where to position the image"
+msgstr ""
+
+#: ecpm-bua-settings.php:185
+msgid "Show text on top"
+msgstr ""
+
+#: ecpm-bua-settings.php:191
+msgid "Would you like to show notice on top of image?"
+msgstr ""
+
+#: ecpm-bua-settings.php:197
+msgid "Top notice text"
+msgstr ""
+
+#: ecpm-bua-settings.php:201 ecpm-bua-settings.php:334
+msgid "Variables you can use: [home], [dashboard]"
+msgstr ""
+
+#: ecpm-bua-settings.php:204
+msgid "Notice text on top of the image)"
+msgstr ""
+
+#: ecpm-bua-settings.php:210 ecpm-bua-settings.php:343
+msgid "Size"
+msgstr ""
+
+#: ecpm-bua-settings.php:215 ecpm-bua-settings.php:348
+msgid "xx-small"
+msgstr ""
+
+#: ecpm-bua-settings.php:216 ecpm-bua-settings.php:349
+msgid "x-small"
+msgstr ""
+
+#: ecpm-bua-settings.php:217 ecpm-bua-settings.php:350
+msgid "small"
+msgstr ""
+
+#: ecpm-bua-settings.php:218 ecpm-bua-settings.php:351
+msgid "medium"
+msgstr ""
+
+#: ecpm-bua-settings.php:219 ecpm-bua-settings.php:352
+msgid "large"
+msgstr ""
+
+#: ecpm-bua-settings.php:220 ecpm-bua-settings.php:353
+msgid "x-large"
+msgstr ""
+
+#: ecpm-bua-settings.php:221 ecpm-bua-settings.php:354
+msgid "xx-large"
+msgstr ""
+
+#: ecpm-bua-settings.php:222 ecpm-bua-settings.php:355
+msgid "smaller"
+msgstr ""
+
+#: ecpm-bua-settings.php:223 ecpm-bua-settings.php:356
+msgid "larger"
+msgstr ""
+
+#: ecpm-bua-settings.php:227
+msgid "Top notice font size"
+msgstr ""
+
+#: ecpm-bua-settings.php:232 ecpm-bua-settings.php:365
+msgid "Weight"
+msgstr ""
+
+#: ecpm-bua-settings.php:236 ecpm-bua-settings.php:253
+#: ecpm-bua-settings.php:369 ecpm-bua-settings.php:386
+msgid "Normal"
+msgstr ""
+
+#: ecpm-bua-settings.php:237 ecpm-bua-settings.php:370
+msgid "Lighter"
+msgstr ""
+
+#: ecpm-bua-settings.php:238 ecpm-bua-settings.php:371
+msgid "Bold"
+msgstr ""
+
+#: ecpm-bua-settings.php:239 ecpm-bua-settings.php:372
+msgid "Bolder"
+msgstr ""
+
+#: ecpm-bua-settings.php:243
+msgid "Top notice font weight"
+msgstr ""
+
+#: ecpm-bua-settings.php:249 ecpm-bua-settings.php:382
+msgid "Style"
+msgstr ""
+
+#: ecpm-bua-settings.php:254 ecpm-bua-settings.php:387
+msgid "Italic"
+msgstr ""
+
+#: ecpm-bua-settings.php:255 ecpm-bua-settings.php:388
+msgid "Oblique"
+msgstr ""
+
+#: ecpm-bua-settings.php:256 ecpm-bua-settings.php:389
+msgid "Initial"
+msgstr ""
+
+#: ecpm-bua-settings.php:260
+msgid "Top notice font style"
+msgstr ""
+
+#: ecpm-bua-settings.php:266 ecpm-bua-settings.php:399
+msgid "Decoration"
+msgstr ""
+
+#: ecpm-bua-settings.php:270 ecpm-bua-settings.php:286
+#: ecpm-bua-settings.php:403 ecpm-bua-settings.php:419
+msgid "None"
+msgstr ""
+
+#: ecpm-bua-settings.php:271 ecpm-bua-settings.php:404
+msgid "Underline"
+msgstr ""
+
+#: ecpm-bua-settings.php:272 ecpm-bua-settings.php:405
+msgid "Overline"
+msgstr ""
+
+#: ecpm-bua-settings.php:273 ecpm-bua-settings.php:406
+msgid "Line-through"
+msgstr ""
+
+#: ecpm-bua-settings.php:277
+msgid "Top notice font decoration"
+msgstr ""
+
+#: ecpm-bua-settings.php:282 ecpm-bua-settings.php:415
+msgid "Transform"
+msgstr ""
+
+#: ecpm-bua-settings.php:287 ecpm-bua-settings.php:420
+msgid "Capitalize"
+msgstr ""
+
+#: ecpm-bua-settings.php:288 ecpm-bua-settings.php:421
+msgid "Upper case"
+msgstr ""
+
+#: ecpm-bua-settings.php:289 ecpm-bua-settings.php:422
+msgid "Lower case"
+msgstr ""
+
+#: ecpm-bua-settings.php:293
+msgid "Top notice font transformation"
+msgstr ""
+
+#: ecpm-bua-settings.php:298 ecpm-bua-settings.php:431
+msgid "Color"
+msgstr ""
+
+#: ecpm-bua-settings.php:306
+msgid "Top notice label font color"
+msgstr ""
+
+#: ecpm-bua-settings.php:318
+msgid "Show text on bottom"
+msgstr ""
+
+#: ecpm-bua-settings.php:324
+msgid "Would you like to show notice on bottom of image?"
+msgstr ""
+
+#: ecpm-bua-settings.php:330
+msgid "Bottom notice text"
+msgstr ""
+
+#: ecpm-bua-settings.php:337
+msgid "Notice text bottom of the image)"
+msgstr ""
+
+#: ecpm-bua-settings.php:360
+msgid "Bottom notice font size"
+msgstr ""
+
+#: ecpm-bua-settings.php:376
+msgid "Bottom notice font weight"
+msgstr ""
+
+#: ecpm-bua-settings.php:393
+msgid "Bottom notice font style"
+msgstr ""
+
+#: ecpm-bua-settings.php:410
+msgid "Bottom notice font decoration"
+msgstr ""
+
+#: ecpm-bua-settings.php:426
+msgid "Bottom notice font transformation"
+msgstr ""
+
+#: ecpm-bua-settings.php:439
+msgid "Bottom notice label font color"
+msgstr ""
+
+#: ecpm-bua-settings.php:451
+msgid "Show top ad"
+msgstr ""
+
+#: ecpm-bua-settings.php:457
+msgid "Would you like to show top ad?"
+msgstr ""
+
+#: ecpm-bua-settings.php:463
+msgid "Top ad"
+msgstr ""
+
+#: ecpm-bua-settings.php:472
+msgid "Show bottom ad"
+msgstr ""
+
+#: ecpm-bua-settings.php:478
+msgid "Would you like to show bottom ad?"
+msgstr ""
+
+#: ecpm-bua-settings.php:484
+msgid "Bottom ad"
+msgstr ""
+
+#: ecpm-bua-settings.php:500
+msgid "Remove user data on uninstall"
+msgstr ""
+
+#: ecpm-bua-settings.php:506
+msgid "Would you like to remove data about blocked users on plugin install?"
+msgstr ""
+
+#: ecpm-bua.php:199
+msgid "Settings saved."
+msgstr ""
+
+#: ecpm-bua.php:230
+msgid "Blocked users"
+msgstr ""
+
+#: ecpm-bua.php:231
+msgid "Image settings"
+msgstr ""
+
+#: ecpm-bua.php:232
+msgid "Top notice"
+msgstr ""
+
+#: ecpm-bua.php:233
+msgid "Bottom notice"
+msgstr ""
+
+#: ecpm-bua.php:234
+msgid "Ad settings"
+msgstr ""
+
+#: ecpm-bua.php:235
+msgid "Settings"
+msgstr ""
+
+#: ecpm-bua.php:242
+msgid "Save settings"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Block User Ads"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.easycpmods.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Block User Ads is a lightweight plugin that will allow you to block users "
+"from posting ads. It requires Classipress theme to be installed."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "EasyCPMods"
+msgstr ""
